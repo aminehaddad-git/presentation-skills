@@ -1,0 +1,22 @@
+[
+  {"query": "my PFE defense is in three weeks. I have report.pdf (94 pages) and 15 minutes in front of three teachers. need a deck and I need to know exactly what to say", "should_trigger": true},
+  {"query": "got accepted to give a talk at PyCon regional, 25 min slot. here's my abstract and some notes. help me build it so I don't run over like last year", "should_trigger": true},
+  {"query": "demo day is friday, 8 minutes, hard cutoff. I have way too much material and no idea what to drop", "should_trigger": true},
+  {"query": "I have 15 minutes to present the migration results to the leadership team. can you help me put something together", "should_trigger": true},
+  {"query": "wrote a talk script but I have no idea if it actually fits in 20 minutes. can you check and cut it down if not", "should_trigger": true},
+  {"query": "thesis viva next month. the panel will grill me. need slides plus backup slides for the questions I know are coming", "should_trigger": true},
+  {"query": "lightning talk, 5 minutes, on why our team moved off microservices. keep it tight", "should_trigger": true},
+  {"query": "help me rehearse — I need the exact words for each slide written out, my mind goes blank when people are watching", "should_trigger": true},
+  {"query": "make a 30-slide deck summarizing our 2026 product roadmap for the all-hands wiki", "should_trigger": false},
+  {"query": "turn these meeting notes into a nice slide deck I can share on Slack", "should_trigger": false},
+  {"query": "I need to write a 15 page report on our Q3 performance", "should_trigger": false},
+  {"query": "convert my presentation from pptx to pdf", "should_trigger": false},
+  {"query": "what's a good structure for a technical blog post about database indexing", "should_trigger": false},
+  {"query": "write speaker notes for this deck, just bullet reminders of what each slide covers", "should_trigger": false},
+  {"query": "help me prepare for a job interview next tuesday, they said there'd be a technical round", "should_trigger": false},
+  {"query": "I'm writing a 15 minute podcast script about urban planning", "should_trigger": false},
+  {"query": "design a poster for our department's open day", "should_trigger": false},
+  {"query": "summarize this 40 minute conference recording into key points", "should_trigger": false},
+  {"query": "my slides are ugly, can you restyle them with a better color palette and fonts", "should_trigger": false},
+  {"query": "draft the abstract I should submit to the conference CFP, 200 words max", "should_trigger": false}
+]

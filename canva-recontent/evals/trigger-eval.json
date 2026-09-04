@@ -1,0 +1,22 @@
+[
+  {"query": "my colleague shared her Q3 review deck with me in Canva and said I could use the layout. can you swap in our team's numbers? link is canva.com/design/DAGxxxx/edit", "should_trigger": true},
+  {"query": "I bought a Canva template for a pitch deck (34 pages) and I need every placeholder replaced with my actual startup content. keep the animations, they're the whole reason I bought it", "should_trigger": true},
+  {"query": "we rebranded last month. there's a 20-slide onboarding deck in Canva still using the old company name and old tagline everywhere. can you go through and update it", "should_trigger": true},
+  {"query": "this Canva presentation is in French and I need to present it to the London office next week. same slides, English text", "should_trigger": true},
+  {"query": "can you take my friend's presentation design and put my project's content in it instead? I want the exact same look, just different words", "should_trigger": true},
+  {"query": "ok so I have this 70 page deck in canva and honestly rebuilding it from scratch would take me all weekend. is there a way to just repurpose it", "should_trigger": true},
+  {"query": "need the speaker notes on all 40 pages of this canva deck rewritten to match the new script I wrote. notes only, don't touch the slides", "should_trigger": true},
+  {"query": "the design at canva.com/design/DAF9kk2/view is a workshop handout template. fill it in with the material from workshop-outline.md", "should_trigger": true},
+  {"query": "make me a Canva presentation about renewable energy for my 10th grade class, 12 slides, colorful", "should_trigger": false},
+  {"query": "I need a logo designed in Canva for my bakery. something warm, maybe a wheat icon", "should_trigger": false},
+  {"query": "export this canva design as a PDF and email it to the team", "should_trigger": false},
+  {"query": "take the content from this Canva deck and turn it into a Word document I can send to legal", "should_trigger": false},
+  {"query": "my powerpoint template from work has placeholder text on every slide, can you fill it in with the Q4 numbers from budget.xlsx", "should_trigger": false},
+  {"query": "translate marketing-copy.docx from French to English, keep the formatting", "should_trigger": false},
+  {"query": "how do I add a transition animation between two pages in Canva? I can't find the button", "should_trigger": false},
+  {"query": "resize my Canva design from Instagram post to Instagram story", "should_trigger": false},
+  {"query": "we rebranded and I need every mention of the old company name updated across the docs in this folder", "should_trigger": false},
+  {"query": "copy this Canva design so I have a backup before I start editing it myself", "should_trigger": false},
+  {"query": "build me a 15 minute defense presentation from my report.pdf, with the spoken script in the notes", "should_trigger": false},
+  {"query": "there's a google slides deck a vendor sent us, can you swap our branding into it", "should_trigger": false}
+]
