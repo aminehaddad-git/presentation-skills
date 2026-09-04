@@ -11,13 +11,13 @@ general advice
 Install with the [skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add mohamedaminehaddad/presentation-skills
+npx skills add aminehaddad-git/presentation-skills
 ```
 
 Or pick one:
 
 ```bash
-npx skills add mohamedaminehaddad/presentation-skills --skill canva-recontent
+npx skills add aminehaddad-git/presentation-skills --skill canva-recontent
 ```
 
 ---
