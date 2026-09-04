@@ -1,7 +1,7 @@
 # Presentation skills for AI agents
 
 Two agent skills for presentations, both written from a single real project rather than from
-general advice: a 70-page Canva rebuild, and a 15-minute defense that had to fit the clock.
+general advice
 
 | Skill | For |
 |---|---|
