@@ -1,6 +1,6 @@
 ---
 name: timed-talk
-description: Build a talk that must fit a hard clock — a deck whose speaker notes carry the exact words to speak, timing measured rather than estimated. Use whenever a talk has a fixed slot and overrunning costs something: a thesis or PFE defense, a conference talk, a demo day pitch, a slotted internal review. Trigger it even when the user only says "I have 15 minutes" or asks for help rehearsing something to time.
+description: 'Build a talk that must fit a hard clock — a deck whose speaker notes carry the exact words to speak, timing measured rather than estimated. Use whenever a talk has a fixed slot and overrunning costs something, such as a thesis or PFE defense, a conference talk, a demo day pitch, or a slotted internal review. Trigger it even when the user only says "I have 15 minutes" or asks for help rehearsing something to time.'
 ---
 
 # Timed talk
